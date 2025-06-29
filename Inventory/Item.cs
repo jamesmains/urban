@@ -4,7 +4,7 @@ using Sirenix.OdinInspector;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Urban.Inventory {
+namespace urban.Inventory {
     /// <summary>
     /// Items Todo:
     /// 1.) Make more generic

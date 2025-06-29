@@ -1,9 +1,9 @@
 using System;
-using Parent_House_Framework.Values;
+using parent_house_framework.Values;
 using Sirenix.OdinInspector;
 using UnityEngine;
 
-namespace Urban.Urban_Time {
+namespace urban.Urban_Time {
     public enum Days {
         Sunday = 1,
         Monday,

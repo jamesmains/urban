@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Sirenix.OdinInspector;
 using UnityEngine;
 
-namespace Urban.Dialogue {
+namespace urban.Dialogue {
     /// <summary>
     /// Todo: Need to fix function to allow options to work
     /// </summary>

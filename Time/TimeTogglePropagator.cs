@@ -1,7 +1,7 @@
-using Parent_House_Framework;
+using parent_house_framework;
 using UnityEngine;
 
-namespace Urban.Urban_Time {
+namespace urban.Urban_Time {
     [CreateAssetMenu(fileName = "TimeTogglePropagator", menuName = "TimeTogglePropagator")]
     public class TimeTogglePropagator : EventPropagator {
         public bool State;

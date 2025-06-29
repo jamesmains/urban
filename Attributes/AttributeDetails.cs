@@ -2,7 +2,7 @@ using System;
 using Sirenix.OdinInspector;
 using UnityEngine;
 
-namespace Urban.Attributes {
+namespace urban.Attributes {
     [CreateAssetMenu(fileName = "New Attribute", menuName = "Attribute")]
     public class AttributeDetails : ScriptableObject {
         [SerializeField,BoxGroup("Settings")]

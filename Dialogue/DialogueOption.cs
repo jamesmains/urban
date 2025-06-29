@@ -1,11 +1,11 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Parent_House_Framework;
+using parent_house_framework;
 using Sirenix.OdinInspector;
 using UnityEngine;
 
-namespace Urban.Dialogue {
+namespace urban.Dialogue {
     public class DialogueOption {
         // Dialogue Option
 // Parameters

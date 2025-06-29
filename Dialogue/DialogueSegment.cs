@@ -1,12 +1,12 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Gnomes.Actor;
-using Parent_House_Framework;
+using gnomes.Actor;
+using parent_house_framework;
 using Sirenix.OdinInspector;
 using UnityEngine;
 
-namespace Urban.Dialogue {
+namespace urban.Dialogue {
     public class DialogueSegment {
         public enum SegmentType {
             Standard,

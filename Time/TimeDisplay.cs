@@ -2,7 +2,7 @@ using Sirenix.OdinInspector;
 using TMPro;
 using UnityEngine;
 
-namespace Urban.Urban_Time {
+namespace urban.Urban_Time {
     public class TimeDisplay : MonoBehaviour {
         [SerializeField, FoldoutGroup("Dependencies"), ReadOnly]
         private TextMeshProUGUI DisplayText;
