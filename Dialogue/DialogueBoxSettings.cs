@@ -3,7 +3,7 @@ using Sirenix.OdinInspector;
 using TMPro;
 using UnityEngine;
 
-namespace Urban.Dialogue {
+namespace urban.Dialogue {
     [Serializable]
     [CreateAssetMenu(fileName = "New Dialogue Box Settings", menuName = "Dialogue/Dialogue Box Settings")]
     public class DialogueBoxSettings : ScriptableObject {

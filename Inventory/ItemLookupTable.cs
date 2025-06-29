@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using Sirenix.OdinInspector;
 using UnityEngine;
 
-namespace Urban.Inventory {
+namespace urban.Inventory {
     [CreateAssetMenu(fileName = "ItemLookupTable", menuName = "Items/LookupTable")]
     public class ItemLookupTable : SerializedScriptableObject
     {

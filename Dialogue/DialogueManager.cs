@@ -1,14 +1,14 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using Parent_House_Framework.Interactions;
-using Parent_House_Framework.Utils;
+using parent_house_framework.Interactions;
+using parent_house_framework.Utils;
 using Sirenix.OdinInspector;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Urban.Dialogue {
+namespace urban.Dialogue {
     /// <summary>
     /// Todo: tie user input to handle user input function
     /// Todo: add transition effects for Begin, Next Segment, and End

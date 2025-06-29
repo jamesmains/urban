@@ -1,6 +1,6 @@
-using Parent_House_Framework.Values;
+using parent_house_framework.Values;
 
-namespace Urban.Attributes {
+namespace urban.Attributes {
     public class AttributeStat : Attribute
     {
         public AttributeStat(AttributeDetails details) : base(details) {
